@@ -1,5 +1,5 @@
-# Hi,I'm jcjyxjs 👋
+# Hi 👋
 
-I'm a student at school 🎓
- - My personal blog 🌐 : https://elstec.cn
+Student 🎓
+ - Blog 🌐 : https://elstec.cn
  - Email 📮 : i@elstec.cn
